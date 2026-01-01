@@ -1,7 +1,7 @@
 # Security Systems Course Projects
 
-**Authors:** Alexandra Gkaragkani (AM: 2019030020) 
-Eva Pantazi (AM: 2019030021) 
+**Authors:** Alexandra Gkaragkani
+Eva Pantazi 
 
 > This repository contains a collection of projects developed for the "Security Systems" course. The projects cover a wide range of cybersecurity topics including cryptography, network security, web vulnerabilities, access control, and system exploitation.
 
@@ -99,3 +99,4 @@ An exploitation project targeting a vulnerable "Greeter" program.
 ## 📜 License
 
 These projects are licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
